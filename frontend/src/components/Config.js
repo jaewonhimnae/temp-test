@@ -1,0 +1,1 @@
+export const TokenAndTokenExp = `token=${localStorage.getItem('x_token')}&tokenExp=${localStorage.getItem('x_tokenExp')}`
